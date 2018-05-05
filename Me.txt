@@ -1,0 +1,21 @@
+ES6
+___
+*elarrow function => elly zy el lambda expression mesh mogrd shkl gded ll function, l2 hia daft behaviour gded 2n el this elly htst5dmha gwaha htb2a 3aida 3la 2wl parent
+*bind bt3'ir el this(ES5) ll object elly mb3wt gwaha
+
+*********************************************************
+5-
+*export elly 2bl elclasses 3shan a3rf a3ml llclass import fe ay mkan tany
+*back tick ``
+*elpathes feltypescript bi2raha mn el2wl 5als 3shan keda fe ./ aw ../ kter
+*@Component({
+	moduleId: module.id //de 3shan a22l modo3 el ./ we ../ lw elfiles gnb b3dha (gwa nfs elcomponent)
+})
+*********************************************************
+6-
+*eldirectives 7aga mn el2tnin ya ema tag(<app-root></app-root>) ya ema attribute
+*klmt directive btt2al 3la tag ana m3'tr3o aw attribute ana m3'tr3o 
+*elstructural directives elly homa bi3'iro felhtml(dom) nfso zy *ngIf msln
+* *ngIf mesh btsht3'l zy angulrajs we t3ml hide ll element l2 de mesh bt-rendero asln. e7na etf2na en elnodejs 5la eljs code yb2a akno server side, fa n2dr n2ol en *ngIf
+btsht3'l 3alserverside(nodejs) we mbtgbsh elelement
+*elattribute directives bt3'ir felappearance welbehaviour bta3 elelements
