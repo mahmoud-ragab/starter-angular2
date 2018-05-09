@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { ProductComponent } from './product/product.component';
 
 @NgModule({
-  // all the components need to be added in declarations
+  // all the components, directives, and pipes need to be added in declarations
   declarations: [
     AppComponent,
     ProductComponent
